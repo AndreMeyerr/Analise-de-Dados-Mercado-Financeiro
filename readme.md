@@ -1,0 +1,1 @@
+Neste projeto, eu analiso o preço das ações da empresa Magalu no decorrer do Ano de 2021 usando Python e suas ferramentas.
